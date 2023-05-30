@@ -1,0 +1,15 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "description": "Umamgobhozi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team Excellence",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "^4.6.1"
+  }
+}
